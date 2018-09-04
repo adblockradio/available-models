@@ -1,5 +1,5 @@
 # Available models for Adblock Radio
-Repository of models and hotlist databases for [Adblock Radio commercial detector](https://github.com/dest4/adblockradio).
+List of available radios on [Adblock Radio commercials detector](https://www.adblockradio.com/).
 
 ## Compatible radios
 
@@ -83,9 +83,11 @@ Repository of models and hotlist databases for [Adblock Radio commercial detecto
 - Kiss UK
 
 
-## I want to suggest another radio
-More radios means more work to support them. People suggesting other radios are expected to help maintaining the filters by classifying mispredictions through an administration UI.
+## I want to suggest another radio or podcast
+Great! Please understand that more radios means more work needed to support them.
 
-Please search in the *Issues* tab to check that the radio you want to add is not already there.
+Your are welcome to suggest another radio or podcast, but in return you are expected to help maintaining the filters by classifying mispredictions through an administration UI.
+
+To get started, search in the *Issues* tab to check that the radio you want to add is not already there.
 * If it is there, feel free to *thumb up* the first message as a sign of support and/or indicate that you are willing to help.
-* If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). Create an issue containing the **Country** and **Name** of the radio station.
+* If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). Create an issue containing the exact **Country** and **Name** of the radio station.
