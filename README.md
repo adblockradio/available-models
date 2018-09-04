@@ -6,9 +6,9 @@ Great! Please understand that more radios means more work needed to support them
 
 Your are welcome to suggest another radio or podcast, but in return you are expected to help maintaining the filters by classifying mispredictions through an administration UI.
 
-To get started, search in the *Issues* tab to check that the radio you want to add is not already there.
+To get started, [search in the *Issues* tab](https://github.com/adblockradio/available-models/issues) to check that the radio you want to add is not already there.
 * If it is there, feel free to *thumb up* the first message as a sign of support and/or write a message to indicate that you are willing to help.
-* If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). Create an issue containing the exact **Country** and **Name** of the radio station. From there, we will decide how to proceed.
+* If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). [Create an issue](https://github.com/adblockradio/available-models/issues/new/choose) containing the exact **Country** and **Name** of the radio station. From there, we will decide how to proceed.
 
 ## Currently compatible radios
 
