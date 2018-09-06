@@ -10,6 +10,8 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 * If it is there, feel free to *thumb up* the first message as a sign of support and/or write a message to indicate that you are willing to help.
 * If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). [Create an issue](https://github.com/adblockradio/available-models/issues/new/choose) containing the exact **Country** and **Name** of the radio station. From there, we will decide how to proceed.
 
+The framework you will use to help is not ready yet, but will be soon (a matter of weeks at most). This page will be updated accordingly.
+
 ## Currently compatible radios
 
 ### Belgium
