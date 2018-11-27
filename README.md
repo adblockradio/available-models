@@ -1,5 +1,7 @@
 # Available models for Adblock Radio
-List of available radios on [Adblock Radio commercials detector](https://www.adblockradio.com/).
+List of available radios for [Adblock Radio commercials detector](https://www.adblockradio.com/).
+
+**Important note: the web player at [https://www.adblockradio.com/player](adblockradio.com/player) is a demo that features only a subset of all available radios. To listen to other radios, you need to run [the standalone player](https://github.com/adblockradio/buffer-player).**
 
 ## I want to suggest another radio or podcast
 Great! Please understand that more radios means more work needed to support them.
