@@ -16,6 +16,17 @@ The framework you will use to help is not ready yet, but will be soon (a matter 
 
 ## Currently compatible radios
 
+- [Belgium](/#Belgium)
+- [France](/#France)
+- [Germany](/#Germany)
+- [Italy](/#Italy)
+- [Netherlands](/#Netherlands)
+- [New Zealand](/#New%20Zealand)
+- [Slovakia](/#Slovakia)
+- [Spain](/#Spain)
+- [Switzerland](/#Switzerland)
+- [USA](/#USA)
+
 ### Belgium
 - Bel-RTL
 - MNM
@@ -75,6 +86,17 @@ The framework you will use to help is not ready yet, but will be soon (a matter 
 - Rai Radio 1
 - Rai Radio 2
 - Rai Radio 3
+- RTL 102.5 (to be announced)
+
+### Netherlands
+- Radio 538 (to be announced)
+
+### New Zealand
+- Newstalk ZB Auckland (to be announced)
+
+### Slovakia
+- Fun Radio
+- Radio Expres
 
 ### Spain
 - Cadena 100
@@ -94,3 +116,6 @@ The framework you will use to help is not ready yet, but will be soon (a matter 
 - BBC Radio 3
 - Kane FM
 - Kiss UK
+
+### USA
+- KQED 88.5 San Francisco, CA (to be announced)
