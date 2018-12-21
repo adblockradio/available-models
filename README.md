@@ -16,16 +16,16 @@ The framework you will use to help is not ready yet, but will be soon (a matter 
 
 ## Currently compatible radios
 
-- [Belgium](/#Belgium)
-- [France](/#France)
-- [Germany](/#Germany)
-- [Italy](/#Italy)
-- [Netherlands](/#Netherlands)
-- [New Zealand](/#New%20Zealand)
-- [Slovakia](/#Slovakia)
-- [Spain](/#Spain)
-- [Switzerland](/#Switzerland)
-- [USA](/#USA)
+- [Belgium](/README.md#Belgium)
+- [France](/README.md#France)
+- [Germany](/README.md#Germany)
+- [Italy](/README.md#Italy)
+- [Netherlands](/README.md#Netherlands)
+- [New Zealand](/README.md#New%20Zealand)
+- [Slovakia](/README.md#Slovakia)
+- [Spain](/README.md#Spain)
+- [Switzerland](/README.md#Switzerland)
+- [USA](/README.md#USA)
 
 ### Belgium
 - Bel-RTL
