@@ -1,7 +1,9 @@
 # Available models for Adblock Radio
 List of available radios for [Adblock Radio commercials detector](https://www.adblockradio.com/).
 
-**Important note: the web player at [https://www.adblockradio.com/player](adblockradio.com/player) is a demo that features only a subset of all available radios. To listen to other radios, you need to run [the standalone player](https://github.com/adblockradio/buffer-player).**
+**Important note:**
+- The web player at [https://www.adblockradio.com/player](adblockradio.com/player) is a demo that features only a subset of all available radios, detailed below.
+- To listen to other radios, you need to run [the standalone player](https://github.com/adblockradio/buffer-player). **Help is needed to make it better!**
 
 ## I want to suggest another radio or podcast
 Great! Please understand that more radios means more work needed to support them.
@@ -12,11 +14,10 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 * If it is there, feel free to *thumb up* the first message as a sign of support and/or write a message to indicate that you are willing to help.
 * If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). [Create an issue](https://github.com/adblockradio/available-models/issues/new/choose) containing the exact **Country** and **Name** of the radio station. From there, we will decide how to proceed.
 
-The framework you will use to help is not ready yet, but will be soon (a matter of weeks at most). This page will be updated accordingly.
-
 ## Currently compatible radios
 
 - [Belgium](/README.md#Belgium)
+- [Canada](/README.md#Canada)
 - [France](/README.md#France)
 - [Germany](/README.md#Germany)
 - [Italy](/README.md#Italy)
@@ -28,94 +29,121 @@ The framework you will use to help is not ready yet, but will be soon (a matter 
 - [USA](/README.md#USA)
 
 ### Belgium
-- Bel-RTL
-- MNM
-- Radio 1
-- RTBF La Première
-- Studio Brussel
-- Zen FM
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Bel-RTL|**No**, looking for a maintainer|Yes|
+|MNM|**No**, looking for a maintainer|Yes|
+|Radio 1|**No**, looking for a maintainer|Yes|
+|RTBF La Première|**No**, looking for a maintainer|Yes|
+|Studio Brussel|**No**, looking for a maintainer|Yes|
+|Zen FM|**No**, looking for a maintainer|Yes|
+
+### Canada
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|CHMP-FM 98,5 MHz FM, Montréal|Yes|No|
 
 ### France
-- Alouette
-- BFM Business
-- Chante France
-- Chérie
-- Djam Radio
-- Europe 1
-- FIP
-- France Culture
-- France Info
-- France Inter
-- France Musique
-- Fun Radio
-- Jazz Radio
-- M Radio
-- Nostalgie
-- Nova Lyon - RTU
-- NRJ
-- OÜI FM
-- Radio Classique
-- Radio FG
-- Radio Meuh
-- Radio Nova
-- Radio Scoop Lyon
-- RFM
-- Rire et Chansons
-- RMC
-- RTL
-- RTL2
-- Skyrock
-- TSF Jazz
-- Virgin Radio France
-- Voltage
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Alouette|**No**, looking for a maintainer|No|
+|BFM Business|**No**, looking for a maintainer|Yes|
+|Chante France|**No**, looking for a maintainer|Yes|
+|Chérie|**No**, looking for a maintainer|Yes|
+|Djam Radio|**No**, looking for a maintainer|Yes|
+|Europe 1|**No**, looking for a maintainer|Yes|
+|FIP|**No**, looking for a maintainer|Yes|
+|France Culture|**No**, looking for a maintainer|Yes|
+|France Info|**No**, looking for a maintainer|Yes|
+|France Inter|**No**, looking for a maintainer|Yes|
+|France Musique|**No**, looking for a maintainer|Yes|
+|Fun Radio|**No**, looking for a maintainer|Yes|
+|Jazz Radio|**No**, looking for a maintainer|No|
+|M Radio|**No**, looking for a maintainer|No|
+|Nostalgie|**No**, looking for a maintainer|Yes|
+|Nova Lyon - RTU|**No**, looking for a maintainer|Yes|
+|NRJ|**No**, looking for a maintainer|Yes|
+|OÜI FM|**No**, looking for a maintainer|No|
+|Radio Classique|**No**, looking for a maintainer|Yes|
+|Radio FG|**No**, looking for a maintainer|No|
+|Radio Meuh|**No**, looking for a maintainer|Yes|
+|Radio Nova|**No**, looking for a maintainer|Yes|
+|Radio Scoop Lyon|**No**, looking for a maintainer|No|
+|RFM|**No**, looking for a maintainer|Yes|
+|Rire et Chansons|**No**, looking for a maintainer|Yes|
+|RMC|**No**, looking for a maintainer|Yes|
+|RTL|**No**, looking for a maintainer|Yes|
+|RTL2|**No**, looking for a maintainer|Yes|
+|Skyrock|**No**, looking for a maintainer|No|
+|TSF Jazz|**No**, looking for a maintainer|Yes|
+|Virgin Radio France|**No**, looking for a maintainer|Yes|
+|Voltage|**No**, looking for a maintainer|No|
 
 ### Germany
-- bigFM Deutschland
-- Fritz
-- Jam FM
-- Klassik Radio
-- Radio 7
-- RTL Radio
-- TechnoBase.FM
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|bigFM Deutschland|**No**, looking for a maintainer|Yes|
+|Fritz|**No**, looking for a maintainer|Yes|
+|Jam FM|**No**, looking for a maintainer|Yes|
+|Klassik Radio|**No**, looking for a maintainer|Yes|
+|Radio 7|**No**, looking for a maintainer|Yes|
+|RTL Radio|**No**, looking for a maintainer|Yes|
+|TechnoBase.FM|**No**, looking for a maintainer|Yes|
 
 ### Italy
-- Radio 24
-- Radio 80
-- Radio Capital
-- Radio Company
-- Rai Radio 1
-- Rai Radio 2
-- Rai Radio 3
-- RTL 102.5 (to be announced)
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Radio 24|**No**, looking for a maintainer|Yes|
+|Radio 80|**No**, looking for a maintainer|Yes|
+|Radio Capital|**No**, looking for a maintainer|Yes|
+|Radio Company|**No**, looking for a maintainer|Yes|
+|Rai Radio 1|**No**, looking for a maintainer|Yes|
+|Rai Radio 2|**No**, looking for a maintainer|Yes|
+|Rai Radio 3|**No**, looking for a maintainer|Yes|
+|RTL 102.5|**No**, looking for a maintainer|No|
 
 ### Netherlands
-- Radio 538 (to be announced)
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Radio 538|**No**, looking for a maintainer|No|
 
 ### New Zealand
-- Newstalk ZB Auckland (to be announced)
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Newstalk ZB Auckland|**No**, looking for a maintainer|No|
 
 ### Slovakia
-- Fun Radio
-- Radio Expres
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Fun Radio|**No**, looking for a maintainer|Yes|
+|Radio Expres|**No**, looking for a maintainer|Yes|
 
 ### Spain
-- Cadena 100
-- Cadena SER
-- RAC1
-- Rock FM
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Cadena 100|**No**, looking for a maintainer|Yes|
+|Cadena SER|**No**, looking for a maintainer|Yes|
+|RAC1|**No**, looking for a maintainer|Yes|
+|Rock FM|**No**, looking for a maintainer|Yes|
 
 ### Switzerland
-- RTS Couleur 3
-- RTS La Premiere
-- Spoon Radio
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|RTS Couleur 3|**No**, looking for a maintainer|Yes|
+|RTS La Premiere|**No**, looking for a maintainer|Yes|
+|Spoon Radio|**No**, looking for a maintainer|Yes|
 
 ### United Kingdom
-- Absolute Radio
-- BBC Radio 1
-- BBC Radio 2
-- BBC Radio 3
-- Kane FM
-- Kiss UK
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Absolute Radio|**No**, looking for a maintainer|Yes|
+|BBC Radio 1|**No**, looking for a maintainer|Yes|
+|BBC Radio 2|**No**, looking for a maintainer|Yes|
+|BBC Radio 3|**No**, looking for a maintainer|Yes|
+|Kane FM|**No**, looking for a maintainer|Yes|
+|Kiss UK|**No**, looking for a maintainer|Yes|
 
 ### USA
-- KQED 88.5 San Francisco, CA (to be announced)
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|KQED 88.5 San Francisco, CA|**No**, looking for a maintainer|No|
