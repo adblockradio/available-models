@@ -41,7 +41,7 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 ### Canada
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|CHMP-FM 98,5 MHz FM, Montréal|Yes|No|
+|CHMP-FM 98,5 MHz FM, Montréal|Yes|Yes|
 
 ### France
 |Radio|Is maintained|Available on web demo|
@@ -88,7 +88,7 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 |Klassik Radio|**No**, looking for a maintainer|Yes|
 |Radio 7|**No**, looking for a maintainer|Yes|
 |RTL Radio|**No**, looking for a maintainer|Yes|
-|TechnoBase.FM|**No**, looking for a maintainer|Yes|
+|TechnoBase.FM|**No**, looking for a maintainer|No|
 
 ### Italy
 |Radio|Is maintained|Available on web demo|
