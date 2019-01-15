@@ -18,6 +18,7 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 
 - [Belgium](/README.md#Belgium)
 - [Canada](/README.md#Canada)
+- [Finland](/README.md#Finland)
 - [France](/README.md#France)
 - [Germany](/README.md#Germany)
 - [Italy](/README.md#Italy)
@@ -32,6 +33,7 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
 |Bel-RTL|**No**, looking for a maintainer|Yes|
+|Joe FM|Yes|No|
 |MNM|**No**, looking for a maintainer|Yes|
 |Radio 1|**No**, looking for a maintainer|Yes|
 |RTBF La Première|**No**, looking for a maintainer|Yes|
@@ -42,6 +44,11 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
 |CHMP-FM 98,5 MHz FM, Montréal|Yes|Yes|
+
+### Finland
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Basso Radio|Yes|No|
 
 ### France
 |Radio|Is maintained|Available on web demo|
@@ -105,7 +112,7 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 ### Netherlands
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|Radio 538|**No**, looking for a maintainer|No|
+|Radio 538|Yes|No|
 
 ### New Zealand
 |Radio|Is maintained|Available on web demo|
@@ -146,4 +153,6 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 ### USA
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|KQED 88.5 San Francisco, CA|**No**, looking for a maintainer|No|
+|KQED 88.5 San Francisco, CA|Yes|No|
+|WNYC-FM 93.9 New York Public Radio|Yes|No|
+|NPR Public Station (AAC)|Yes|No|
