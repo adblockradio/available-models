@@ -155,4 +155,4 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 |-----|-------------|---------------------|
 |KQED 88.5 San Francisco, CA|Yes|No|
 |WNYC-FM 93.9 New York Public Radio|Yes|No|
-|NPR Public Station (AAC)|Yes|No|
+|NPR Program (AAC)|Yes|No|
