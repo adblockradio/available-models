@@ -5,14 +5,12 @@ List of available radios for [Adblock Radio commercials detector](https://www.ad
 - The web player at [https://www.adblockradio.com/player](adblockradio.com/player) is a demo that features only a subset of all available radios, detailed below.
 - To listen to other radios, you need to run [the standalone player](https://github.com/adblockradio/buffer-player). **Help is needed to make it better!**
 
-## I want to suggest another radio or podcast
-Great! Please understand that more radios means more work needed to support them.
+## Become a maintainer to help support radios
 
-Your are welcome to suggest another radio or podcast, but in return you are expected to help maintaining the filters by classifying mispredictions through an administration UI.
-
-To get started, [search in the *Issues* tab](https://github.com/adblockradio/available-models/issues) to check that the radio you want to add is not already there.
-* If it is there, feel free to *thumb up* the first message as a sign of support and/or write a message to indicate that you are willing to help.
-* If it is not there, search for it on [radio-browser.info](https://www.radio-browser.info/gui/#/). [Create an issue](https://github.com/adblockradio/available-models/issues/new/choose) containing the exact **Country** and **Name** of the radio station. From there, we will decide how to proceed.
+Adblock Radio is compatible with all radio streams.
+Is your favorite radio already in the list below?
+- It is: Now, does it need a maintainer? Write a message to contact@adblockradio.com to volunteer!
+- It is not: please create a Github issue containing the exact **Country** and **Name** of the radio station, as on [radio-browser.info](https://www.radio-browser.info/gui/#/). Or *thumb up* already existing issues. From there, we will decide how to proceed.
 
 ## Currently compatible radios
 
@@ -37,8 +35,8 @@ To get started, [search in the *Issues* tab](https://github.com/adblockradio/ava
 |MNM|**No**, looking for a maintainer|Yes|
 |Radio 1|**No**, looking for a maintainer|Yes|
 |RTBF La Première|**No**, looking for a maintainer|Yes|
-|Studio Brussel|**No**, looking for a maintainer|Yes|
-|Zen FM|**No**, looking for a maintainer|Yes|
+|Studio Brussel|Yes|Yes|
+|Zen FM|Yes|Yes|
 
 ### Canada
 |Radio|Is maintained|Available on web demo|
