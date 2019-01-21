@@ -46,7 +46,7 @@ Is your favorite radio already in the list below?
 ### Finland
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|Basso Radio|Yes|No|
+|Basso Radio|Yes|Yes|
 
 ### France
 |Radio|Is maintained|Available on web demo|
@@ -57,8 +57,8 @@ Is your favorite radio already in the list below?
 |Chérie|**No**, looking for a maintainer|Yes|
 |Djam Radio|**No**, looking for a maintainer|Yes|
 |Europe 1|**No**, looking for a maintainer|Yes|
-|FIP|**No**, looking for a maintainer|Yes|
-|France Culture|**No**, looking for a maintainer|Yes|
+|FIP|**No**, looking for a maintainer|No|
+|France Culture|**No**, looking for a maintainer|No|
 |France Info|**No**, looking for a maintainer|Yes|
 |France Inter|**No**, looking for a maintainer|Yes|
 |France Musique|**No**, looking for a maintainer|Yes|
@@ -66,7 +66,7 @@ Is your favorite radio already in the list below?
 |Jazz Radio|**No**, looking for a maintainer|No|
 |M Radio|**No**, looking for a maintainer|No|
 |Nostalgie|**No**, looking for a maintainer|Yes|
-|Nova Lyon - RTU|**No**, looking for a maintainer|Yes|
+|Nova Lyon - RTU|**No**, looking for a maintainer|No|
 |NRJ|**No**, looking for a maintainer|Yes|
 |OÜI FM|**No**, looking for a maintainer|No|
 |Radio Classique|**No**, looking for a maintainer|Yes|
@@ -75,7 +75,7 @@ Is your favorite radio already in the list below?
 |Radio Nova|**No**, looking for a maintainer|Yes|
 |Radio Scoop Lyon|**No**, looking for a maintainer|No|
 |RFM|**No**, looking for a maintainer|Yes|
-|Rire et Chansons|**No**, looking for a maintainer|Yes|
+|Rire et Chansons Live|**No**, looking for a maintainer|Yes|
 |RMC|**No**, looking for a maintainer|Yes|
 |RTL|**No**, looking for a maintainer|Yes|
 |RTL2|**No**, looking for a maintainer|Yes|
@@ -88,7 +88,7 @@ Is your favorite radio already in the list below?
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
 |bigFM Deutschland|**No**, looking for a maintainer|Yes|
-|Fritz|**No**, looking for a maintainer|Yes|
+|Fritz|**No**, looking for a maintainer|No|
 |Jam FM|**No**, looking for a maintainer|Yes|
 |Klassik Radio|**No**, looking for a maintainer|Yes|
 |Radio 7|**No**, looking for a maintainer|Yes|
@@ -98,7 +98,7 @@ Is your favorite radio already in the list below?
 ### Italy
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|Radio 24|**No**, looking for a maintainer|Yes|
+|Radio 24|**No**, looking for a maintainer|No|
 |Radio 80|**No**, looking for a maintainer|Yes|
 |Radio Capital|**No**, looking for a maintainer|Yes|
 |Radio Company|**No**, looking for a maintainer|Yes|
@@ -110,7 +110,7 @@ Is your favorite radio already in the list below?
 ### Netherlands
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|Radio 538|Yes|No|
+|Radio 538|Yes|Yes|
 
 ### New Zealand
 |Radio|Is maintained|Available on web demo|
