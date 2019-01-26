@@ -14,6 +14,7 @@ Is your favorite radio already in the list below?
 
 ## Currently compatible radios
 
+- [Argentina](/README.md#Argentina)
 - [Belgium](/README.md#Belgium)
 - [Canada](/README.md#Canada)
 - [Finland](/README.md#Finland)
@@ -25,7 +26,12 @@ Is your favorite radio already in the list below?
 - [Slovakia](/README.md#Slovakia)
 - [Spain](/README.md#Spain)
 - [Switzerland](/README.md#Switzerland)
-- [USA](/README.md#USA)
+- [USA](/README.md#USA
+
+### Argentina
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|AM 530 Somos Radio|Yes|No|
 
 ### Belgium
 |Radio|Is maintained|Available on web demo|
