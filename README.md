@@ -8,9 +8,11 @@ List of available radios for [Adblock Radio commercials detector](https://www.ad
 ## Become a maintainer to help support radios
 
 Adblock Radio is compatible with all radio streams.
-Is your favorite radio already in the list below?
-- It is: Now, does it need a maintainer? Write a message to contact@adblockradio.com to volunteer!
-- It is not: please create a Github issue containing the exact **Country** and **Name** of the radio station, as on [radio-browser.info](https://www.radio-browser.info/gui/#/). Or *thumb up* already existing issues. From there, we will decide how to proceed.
+
+Does your favorite radio need a maintainer? 
+Is it missing on the list?
+
+Write a message to contact@adblockradio.com to volunteer! No coding skills required.
 
 ## Currently compatible radios
 
@@ -122,6 +124,7 @@ Is your favorite radio already in the list below?
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
 |Newstalk ZB Auckland|**No**, looking for a maintainer|No|
+|Radio Hauraki|Yes|No|
 
 ### Slovakia
 |Radio|Is maintained|Available on web demo|
