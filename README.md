@@ -24,7 +24,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 - [Germany](/README.md#Germany)
 - [Italy](/README.md#Italy)
 - [Netherlands](/README.md#Netherlands)
-- [New Zealand](/README.md#New%20Zealand)
+- [New Zealand](/README.md#new-zealand)
 - [Slovakia](/README.md#Slovakia)
 - [Spain](/README.md#Spain)
 - [Switzerland](/README.md#Switzerland)
@@ -95,11 +95,11 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 ### Germany
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|bigFM Deutschland|**No**, looking for a maintainer|Yes|
+|bigFM Deutschland|**No**, looking for a maintainer|No|
 |Fritz|**No**, looking for a maintainer|No|
 |Jam FM|**No**, looking for a maintainer|Yes|
 |Klassik Radio|**No**, looking for a maintainer|Yes|
-|Radio 7|**No**, looking for a maintainer|Yes|
+|Radio 7|**No**, looking for a maintainer|No|
 |RTL Radio|**No**, looking for a maintainer|Yes|
 |TechnoBase.FM|**No**, looking for a maintainer|No|
 
@@ -123,8 +123,8 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 ### New Zealand
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
-|Newstalk ZB Auckland|**No**, looking for a maintainer|No|
-|Radio Hauraki|Yes|No|
+|Newstalk ZB Auckland|Yes|Yes|
+|Radio Hauraki|Yes|Yes|
 
 ### Slovakia
 |Radio|Is maintained|Available on web demo|
