@@ -61,7 +61,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |-----|-------------|---------------------|
 |Alouette|**No**, looking for a maintainer|No|
 |BFM Business|**No**, looking for a maintainer|Yes|
-|Chante France|**No**, looking for a maintainer|Yes|
+|Chante France|**No**, looking for a maintainer|No|
 |Chérie|**No**, looking for a maintainer|Yes|
 |Djam Radio|**No**, looking for a maintainer|Yes|
 |Europe 1|**No**, looking for a maintainer|Yes|
