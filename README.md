@@ -119,6 +119,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
 |Radio 538|Yes|Yes|
+|SLAM!|Yes|No|
 
 ### New Zealand
 |Radio|Is maintained|Available on web demo|
