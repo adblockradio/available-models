@@ -28,6 +28,8 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 - [Slovakia](/README.md#Slovakia)
 - [Spain](/README.md#Spain)
 - [Switzerland](/README.md#Switzerland)
+- [United Kingdom](/README.md#United%20Kingdom)
+- [Uruguay](/README.md#Uruguay)
 - [USA](/README.md#USA)
 
 ### Argentina
@@ -157,6 +159,12 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |BBC Radio 3|**No**, looking for a maintainer|Yes|
 |Kane FM|**No**, looking for a maintainer|Yes|
 |Kiss UK|**No**, looking for a maintainer|Yes|
+|LBC Radio|Yes|No|
+
+### Uruguay
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Del Sol FM|Yes|No|
 
 ### USA
 |Radio|Is maintained|Available on web demo|
