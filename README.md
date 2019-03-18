@@ -28,7 +28,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 - [Slovakia](/README.md#Slovakia)
 - [Spain](/README.md#Spain)
 - [Switzerland](/README.md#Switzerland)
-- [United Kingdom](/README.md#United%20Kingdom)
+- [United Kingdom](/README.md#United-Kingdom)
 - [Uruguay](/README.md#Uruguay)
 - [USA](/README.md#USA)
 
