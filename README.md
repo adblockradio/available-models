@@ -171,4 +171,4 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |-----|-------------|---------------------|
 |KQED 88.5 San Francisco, CA|Yes|No|
 |WNYC-FM 93.9 New York Public Radio|Yes|No|
-|NPR Program (AAC)|Yes|No|
+|NPR Program|Yes|No|
