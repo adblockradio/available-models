@@ -141,7 +141,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Cadena 100|**No**, looking for a maintainer|Yes|
 |Cadena SER|**No**, looking for a maintainer|Yes|
 |RAC1|**No**, looking for a maintainer|Yes|
-|Rock FM|**No**, looking for a maintainer|Yes|
+|Rock FM|**No**, looking for a maintainer|No|
 
 ### Switzerland
 |Radio|Is maintained|Available on web demo|
@@ -159,7 +159,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |BBC Radio 3|**No**, looking for a maintainer|Yes|
 |Kane FM|**No**, looking for a maintainer|Yes|
 |Kiss UK|**No**, looking for a maintainer|Yes|
-|LBC Radio|Yes|No|
+|LBC Radio|Yes|Yes|
 
 ### Uruguay
 |Radio|Is maintained|Available on web demo|
