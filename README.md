@@ -22,6 +22,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 - [Finland](/README.md#Finland)
 - [France](/README.md#France)
 - [Germany](/README.md#Germany)
+- [Greece](/README.md#Greece)
 - [Italy](/README.md#Italy)
 - [Netherlands](/README.md#Netherlands)
 - [New Zealand](/README.md#new-zealand)
@@ -78,6 +79,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Nostalgie|**No**, looking for a maintainer|Yes|
 |Nova Lyon - RTU|**No**, looking for a maintainer|No|
 |NRJ|**No**, looking for a maintainer|Yes|
+|OnlyHit|Yes|No|
 |OÜI FM|**No**, looking for a maintainer|No|
 |Radio Classique|**No**, looking for a maintainer|Yes|
 |Radio FG|**No**, looking for a maintainer|No|
@@ -104,6 +106,11 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Radio 7|**No**, looking for a maintainer|No|
 |RTL Radio|**No**, looking for a maintainer|Yes|
 |TechnoBase.FM|**No**, looking for a maintainer|No|
+
+### Greece
+|Radio|Is maintained|Available on web demo|
+|-----|-------------|---------------------|
+|Sfera 102.2|Yes|No|
 
 ### Italy
 |Radio|Is maintained|Available on web demo|
