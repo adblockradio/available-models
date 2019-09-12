@@ -84,7 +84,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Radio Classique|**No**, looking for a maintainer|Yes|
 |Radio FG|**No**, looking for a maintainer|No|
 |Radio Meuh|**No**, looking for a maintainer|Yes|
-|Radio Nova|**No**, looking for a maintainer|Yes|
+|Radio Nova|Yes|Yes|
 |Radio Scoop Lyon|**No**, looking for a maintainer|No|
 |RFM|**No**, looking for a maintainer|Yes|
 |Rire et Chansons Live|**No**, looking for a maintainer|Yes|
