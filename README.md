@@ -71,7 +71,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |FIP|**No**, looking for a maintainer|No|
 |France Culture|**No**, looking for a maintainer|No|
 |France Info|**No**, looking for a maintainer|Yes|
-|France Inter|**No**, looking for a maintainer|Yes|
+|France Inter|Yes|Yes|
 |France Musique|**No**, looking for a maintainer|Yes|
 |Fun Radio|**No**, looking for a maintainer|Yes|
 |Jazz Radio|**No**, looking for a maintainer|No|
