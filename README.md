@@ -46,8 +46,8 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |MNM|**No**, looking for a maintainer|Yes|
 |Radio 1|**No**, looking for a maintainer|Yes|
 |RTBF La Première|**No**, looking for a maintainer|Yes|
-|Studio Brussel|Yes|Yes|
-|Zen FM|Yes|Yes|
+|Studio Brussel|**No**, looking for a maintainer|Yes|
+|Zen FM|**No**, looking for a maintainer|Yes|
 
 ### Canada
 |Radio|Is maintained|Available on web demo|
