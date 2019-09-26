@@ -14,7 +14,7 @@ Is it missing on the list?
 
 Write a message to contact@adblockradio.com to volunteer! No coding skills required.
 
-Maintainers have access to a dedicated web interface where they review what has been broadcast and what has been predicted by the algorithm on a selection of stations. They navigate between "flags" from listeners (indicating errors from the ad filter) and submit corrections to make the listening experience better for them and for everybody else.
+[Read this to better understand what being a maintainer is about](https://www.adblockradio.com/blog/2019/09/26/about-becoming-a-maintainer/).
 
 ## Currently compatible radios
 
