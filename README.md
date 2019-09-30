@@ -49,7 +49,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Radio 1|**No**, looking for a maintainer|Yes|
 |RTBF La Première|**No**, looking for a maintainer|Yes|
 |Studio Brussel|**No**, looking for a maintainer|Yes|
-|Zen FM|**No**, looking for a maintainer|Yes|
+|Zen FM|**No**, looking for a maintainer|No|
 
 ### Canada
 |Radio|Is maintained|Available on web demo|
@@ -70,7 +70,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Chérie|**No**, looking for a maintainer|Yes|
 |Djam Radio|**No**, looking for a maintainer|Yes|
 |Europe 1|**No**, looking for a maintainer|Yes|
-|FIP|**No**, looking for a maintainer|No|
+|FIP|Yes|Yes|
 |France Culture|**No**, looking for a maintainer|No|
 |France Info|**No**, looking for a maintainer|Yes|
 |France Inter|Yes|Yes|
