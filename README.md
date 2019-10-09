@@ -65,7 +65,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |Radio|Is maintained|Available on web demo|
 |-----|-------------|---------------------|
 |Alouette|**No**, looking for a maintainer|No|
-|BFM Business|**No**, looking for a maintainer|Yes|
+|BFM Business|Yes|Yes|
 |Chante France|**No**, looking for a maintainer|No|
 |Chérie|**No**, looking for a maintainer|Yes|
 |Djam Radio|**No**, looking for a maintainer|Yes|
@@ -83,7 +83,7 @@ Write a message to contact@adblockradio.com to volunteer! No coding skills requi
 |NRJ|**No**, looking for a maintainer|Yes|
 |OnlyHit|Yes|No|
 |OÜI FM|**No**, looking for a maintainer|No|
-|Radio Classique|**No**, looking for a maintainer|Yes|
+|Radio Classique|Yes|Yes|
 |Radio FG|**No**, looking for a maintainer|No|
 |Radio Meuh|**No**, looking for a maintainer|Yes|
 |Radio Nova|Yes|Yes|
